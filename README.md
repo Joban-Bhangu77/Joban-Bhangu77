@@ -1,12 +1,12 @@
 ## Hi there I am Jobanjit 👋
 
-🔭 I’m currently working on AI-powered solutions that merge cybersecurity, cloud infrastructure, and intelligent automation.
+🔭 I’m currently working on AI-powered solutions that merge Cybersecurity, Cloud Infrastructure, and Intelligent Automation.
 
-🌱 I’m currently learning deep learning, ethical AI, and how to scale AI models for real-world business impact.
+🌱 I’m currently learning deep Learning, Ethical AI, and how to scale AI models for Real-World bBsiness Impact.
 
 🌐 My official website is launching soon: www.theturbanator.com
 
-👯 I’m looking to collaborate on AI research, cloud-native apps, cybersecurity automation, and innovative product development.
+👯 I’m looking to collaborate on AI Research, Cloud-native Apps, Cybersecurity Automation, and Innovative Product Development.
 
 🤔 I’m looking for help with startup advisory, open-source AI projects, and building scalable tech businesses.
 
@@ -30,4 +30,4 @@
 
 🚀 Future goal: To build a tech-driven business that creates impact, empowers people, and pushes innovation forward.
 
-🙏 I deeply believe in Waheguru, which guides me with strength, humility, and purpose every day.
+🙏 I deeply believe in Waheguru Ji, which guides me with strength, humility, and purpose every day.
