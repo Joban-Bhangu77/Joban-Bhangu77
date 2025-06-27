@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on AI-powered solutions that merge Cybersecurity, Cloud Infrastructure, and Intelligent Automation.
 
-🌱 I’m currently learning deep Learning, Ethical AI, and how to scale AI models for Real-World bBsiness Impact.
+🌱 I’m currently learning deep Learning, Ethical AI, and how to scale AI models for Real-World Business Impact.
 
 🌐 My official website is launching soon: www.theturbanator.com
 
