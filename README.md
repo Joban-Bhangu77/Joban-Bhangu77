@@ -22,6 +22,8 @@
 
 📚 I’m an obsessive learner and reader—covering AI, cybersecurity, tech entrepreneurship, personal development, and mindset. Some top reads: Deep Learning with Python, The Lean Startup, Atomic Habits, Zero to One, The Art of Invisibility, and Can't Hurt Me.
 
+🛠️ Hands-on experience with the latest technologies including Python scripting, AI frameworks (TensorFlow, PyTorch), cloud platforms (AWS &  Azure), and network security tools.
+
 🏋️‍♂️ I believe in high-performance living—diving between AI models, lifting weights, reading at dawn, and chasing big visions.
 
 🧠 Motto I live by: “Secure the present. Build the future. Evolve every day.”
