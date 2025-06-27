@@ -29,3 +29,5 @@
 🏆 Career highlights: 7+ years in Network & Cloud Security, pursuing a Master's in AI, building intelligent systems, and stepping into the world of entrepreneurship.
 
 🚀 Future goal: To build a tech-driven business that creates impact, empowers people, and pushes innovation forward.
+
+🙏 I deeply believe in Waheguru, which guides me with strength, humility, and purpose every day.
