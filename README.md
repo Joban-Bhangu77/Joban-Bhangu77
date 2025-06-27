@@ -14,7 +14,7 @@
 
 📫 How to reach me: [Jobanjitsinghamritsar@gmail.com] | [https://www.linkedin.com/in/jobanjit-singh/] | [https://github.com/Joban-Bhangu77]
 
-📝 I share my insights, tutorials, and thoughts on AI, cybersecurity, and tech innovation on my blog: Medium/@jobanjitsinghamritsar.
+📝 I share my insights, tutorials, and thoughts on AI, cybersecurity, and tech innovation on my blog: Medium/@jobanjitsinghamritsar
 
 😄 Pronouns: He/Him
 
