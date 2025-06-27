@@ -1,4 +1,4 @@
-## Hi there I am Jobanjit 👋
+## Hi there, I am Jobanjit 👋
 
 🔭 I’m currently working on AI-powered solutions that merge Cybersecurity, Cloud Infrastructure, and Intelligent Automation.
 
