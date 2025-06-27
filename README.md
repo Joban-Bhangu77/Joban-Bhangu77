@@ -13,7 +13,7 @@
 
 💬 Ask me about network/cloud security, Python, AI integration, startup strategy, or building a tech career from scratch.
 
-📫 How to reach me: [Your Email] | [LinkedIn] | [GitHub]
+📫 How to reach me: [Jobanjitsinghamritsar@gmail.com] | [https://www.linkedin.com/in/jobanjit-singh/] | [https://github.com/Joban-Bhangu77]
 
 😄 Pronouns: He/Him
 
