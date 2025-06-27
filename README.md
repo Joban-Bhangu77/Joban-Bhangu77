@@ -1,11 +1,10 @@
 ## Hi there I am Jobanjit 👋
 
-<!--
-**Joban-Bhangu77/Joban-Bhangu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I’m currently working on AI-powered solutions that merge cybersecurity, cloud infrastructure, and intelligent automation.
 
 🌱 I’m currently learning deep learning, ethical AI, and how to scale AI models for real-world business impact.
+
+🌐 My official website is launching soon: www.theturbanator.com
 
 👯 I’m looking to collaborate on AI research, cloud-native apps, cybersecurity automation, and innovative product development.
 
@@ -29,5 +28,4 @@
 
 🏆 Career highlights: 7+ years in Network & Cloud Security, pursuing a Master's in AI, building intelligent systems, and stepping into the world of entrepreneurship.
 
-🚀 Future goal: To build a tech-driven business that creates impact, empowers people, and pushes innovation forward...
--->
+🚀 Future goal: To build a tech-driven business that creates impact, empowers people, and pushes innovation forward.
