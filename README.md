@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am Jobanjit 👋
 
 <!--
 **Joban-Bhangu77/Joban-Bhangu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I went from national-level sports to network security—and now I’m combining that energy with AI innovation and entrepreneurship.
+⚡ Fun fact: I went from University level sports to network security—and now I’m combining that energy with AI innovation and entrepreneurship.
 
 💡 Favorite tech combo: Python + Network Security + AI (TensorFlow, PyTorch, cloud platforms)
 
