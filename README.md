@@ -1,4 +1,8 @@
 ## Hi there, I am Jobanjit 👋
+I am an IT professional with 8+ years of experience in Network Security, Cloud Engineering, and Infrastructure, with a strong focus on DevOps practices and automation. I specialize in designing, implementing, and managing secure, scalable, and highly available cloud and network solutions. Passionate about learning and experimenting, I work on projects involving CI/CD pipelines, cloud automation, Infrastructure as Code, Networking, Python, and DevOps tools, sharing practical solutions and hands-on implementations to help the tech community.
+
+🛠 Language and tools
+amazonwebservices logo  circleci logo  kubernetes logo  docker logo  googlecloud logo  azure logo  bash logo  linux logo  python logo  nginx logo  jenkins logo  terraform logo  argocd logo  prometheus logo  grafana logo  ansible logo  bitbucket logo  centos logo  canva logo  confluence logo  gitlab logo  jira logo  redhat logo  tomcat logo  ubuntu logo
 
 🔭 I’m currently working on AI-powered solutions that merge Cybersecurity, Cloud Infrastructure, and Intelligent Automation.
 
