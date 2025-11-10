@@ -1,5 +1,5 @@
 ## Hi there, I am Jobanjit 👋  
-I am an IT professional with 8+ years of experience in Network Security, Cloud Engineering, and Infrastructure, with a strong focus on DevOps practices and automation. I specialize in designing, implementing,     and managing secure, scalable, and highly available cloud and network solutions. Passionate about learning and experimenting, I work on projects involving CI/CD pipelines, cloud automation, Infrastructure as Code, Networking, Python, and DevOps tools, sharing practical solutions and hands-on implementations to help the tech community.
+   I am an IT professional with 8+ years of experience in Network Security, Cloud Engineering, and Infrastructure, with a strong focus on DevOps practices and . I     specialize in designing, implementing, and managing secure, scalable, and highly available cloud and network solutions. Passionate about learning and               experimenting, I work on projects involving CI/CD pipelines, cloud automation, Infrastructure as Code, Networking, Python, and DevOps tools, sharing practical      solutions and hands-on implementations to help the tech community.
 
 🔭 I’m currently working on AI-powered solutions that merge Cybersecurity, Cloud Infrastructure, and Intelligent Automation.
 
