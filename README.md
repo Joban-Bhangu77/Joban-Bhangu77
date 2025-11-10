@@ -1,38 +1,64 @@
-## Hi there, I am Jobanjit 👋  
-   I am an IT professional with 8+ years of experience in Network Security, Cloud Engineering, and Infrastructure, with a strong focus on DevOps practices and . I     specialize in designing, implementing, and managing secure, scalable, and highly available cloud and network solutions. Passionate about learning and               experimenting, I work on projects involving CI/CD pipelines, cloud automation, Infrastructure as Code, Networking, Python, and DevOps tools, sharing practical      solutions and hands-on implementations to help the tech community.
+👋 Hi there, I'm Jobanjit Singh
+IT Professional with 8+ years of experience specializing in Network Security 🛡️, Cloud Engineering ☁️, and Infrastructure, driven by DevOps methodologies and Intelligent Automation 🤖. I focus on designing, implementing, and managing secure, scalable, and highly available solutions.
 
-🔭 I’m currently working on AI-powered solutions that merge Cybersecurity, Cloud Infrastructure, and Intelligent Automation.
+🌟 My Current Focus & Expertise
+🔭 Currently Working On: AI-powered solutions that merge Cybersecurity, Cloud Infrastructure, and Intelligent Automation.
 
-🌱 I’m currently learning deep Learning, Ethical AI, and how to scale AI models for Real-World Business Impact.
+🌱 Currently Learning: Deep Learning, Ethical AI, and scaling AI models for real-world business impact.
 
-🌐 My official website is launching soon: www.theturbanator.com
+💡 Core Skills:
 
-👯 I’m looking to collaborate on AI Research, Cloud-native Apps, Cybersecurity Automation, and Innovative Product Development.
+DevOps & Automation: CI/CD Pipelines, IaC, AWS & Azure.
 
-🤔 I’m looking for help with startup advisory, open-source AI projects, and building scalable tech businesses.
+Cybersecurity: Network and Cloud Security Architecture, Zero Trust.
 
-💬 Ask me about network/cloud security, Python, AI integration, startup strategy, or building a tech career from scratch.
+AI/ML: Python 🐍, TensorFlow, PyTorch, and large-scale model deployment.
 
-📫 How to reach me: [Jobanjitsinghamritsar@gmail.com] | [https://www.linkedin.com/in/jobanjit-singh/] | [https://github.com/Joban-Bhangu77]
+🛠️ Tech Stack Highlights: Python, AI Frameworks, Cloud Platforms (AWS, Azure), Network Security Tools, Kubernetes.
 
-📝 I share my insights, tutorials, and thoughts on AI, cybersecurity, and tech innovation on my blog: Medium @  https://medium.com/@jobanjitsinghamritsar
+✨ Motto I Live By: “Secure the present. Build the future. Evolve every day.”
 
-😄 Pronouns: He/Him
+🚀 High-Intensity Learning Journeys (Ongoing)
+🐍 90 Days of Python & AI Commitment
+This ongoing journey is a deep dive to master the full Python ecosystem for engineering: from scripting and networking automation to implementing core AI/ML concepts using TensorFlow and PyTorch. Follow along for practical, open-source automation scripts and intelligent system prototypes.
 
-⚡ Fun fact: I went from University level sports to network security—and now I’m combining that energy with AI innovation and entrepreneurship.
+🚢 Kubernetes Implementation Journey
+I am actively working to architect and deploy secure, scalable containerized environments using Kubernetes (K8s). This journey involves mastering cluster setup, deploying complex microservices, implementing security policies, and optimizing resource utilization for high availability and performance.
 
-💡 Favorite tech combo: Python + Network Security + AI (TensorFlow, PyTorch, cloud platforms)
+🤝 Connect & Collaborate
+I'm always open to new challenges and conversations. Here's how we can work together:
 
-📚 I’m an obsessive learner and reader—covering AI, cybersecurity, tech entrepreneurship, personal development, and mindset. Some top reads: Deep Learning with Python, The Lean Startup, Atomic Habits, Zero to One, The Art of Invisibility, and Can't Hurt Me.
+Looking to Collaborate On 🧠☁️🔒
 
-🛠️ Hands-on experience with the latest technologies including Python scripting, AI frameworks (TensorFlow, PyTorch), cloud platforms (AWS &  Azure), and network security tools.
+AI Research and innovative product development.
 
-🏋️‍♂️ I believe in high-performance living—diving between AI models, lifting weights, reading at dawn, and chasing big visions.
+Building Cloud-native Applications.
 
-🧠 Motto I live by: “Secure the present. Build the future. Evolve every day.”
+Projects focusing on Cybersecurity Automation.
 
-🏆 Career highlights: 7+ years in Network & Cloud Security, pursuing a Master's in AI, building intelligent systems, and stepping into the world of entrepreneurship.
+Looking for Help With 🚀⭐📢
 
-🚀 Future goal: To build a tech-driven business that creates impact, empowers people, and pushes innovation forward.
+Startup Advisory and business scaling strategies.
 
-🙏 I deeply believe in Waheguru Ji, which guides me with strength, humility, and purpose every day.
+Open-source AI projects contributions.
+
+Building robust, scalable tech businesses.
+
+Ask Me About 💬🔑
+
+Network/Cloud Security architecture.
+
+Python scripting and AI integration.
+
+Startup strategy or building a tech career from scratch.
+
+🌐 Let's Connect
+LinkedIn: [https://www.linkedin.com/in/jobanjit-singh/]
+
+GitHub: [https://github.com/Joban-Bhangu77]
+
+Email: [Jobanjitsinghamritsar@gmail.com]
+
+Blog/Insights: Medium @ [https://medium.com/@jobanjitsinghamritsar]
+
+Official Website (Launching Soon): www.theturbanator.com
