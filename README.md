@@ -1,7 +1,8 @@
 👋 Hi there, I'm Jobanjit Singh
 IT Professional with 8+ years of experience specializing in Network Security 🛡️, Cloud Engineering ☁️, and Infrastructure, driven by DevOps methodologies and Intelligent Automation 🤖. I focus on designing, implementing, and managing secure, scalable, and highly available solutions.
 
-🌟 My Current Focus & Expertise
+🌟 My Current Focus & Expertise:
+
 🔭 Currently Working On: AI-powered solutions that merge Cybersecurity, Cloud Infrastructure, and Intelligent Automation.
 
 🌱 Currently Learning: Deep Learning, Ethical AI, and scaling AI models for real-world business impact.
