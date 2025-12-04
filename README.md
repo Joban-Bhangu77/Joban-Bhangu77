@@ -1,65 +1,168 @@
-👋 Hi there, I'm Jobanjit Singh
-IT Professional with 8+ years of experience specializing in Network Security 🛡️, Cloud Engineering ☁️, and Infrastructure, driven by DevOps methodologies and Intelligent Automation 🤖. I focus on designing, implementing, and managing secure, scalable, and highly available solutions.
 
-🌟 My Current Focus & Expertise:
+# 👋 Hi, I'm **Jobanjit Singh **  
+**Cloud • Cybersecurity • AI • DevOps • Network Security Engineer | 8+ Years of Enterprise IT Experience**  
+Canadian Citizen 🇨🇦 | Global Technology Professional 🌍 | Founder – **SkyGuardian-AI**
 
-🔭 Currently Working On: AI-powered solutions that merge Cybersecurity, Cloud Infrastructure, and Intelligent Automation.
+---
 
-🌱 Currently Learning: Deep Learning, Ethical AI, and scaling AI models for real-world business impact.
+## 🌟 About Me  
+I am a results-driven **Cloud, Cybersecurity, and Network Security Engineer** with more than 8 years of hands-on experience building, securing, automating, and optimizing enterprise-grade infrastructure.
 
-💡 Core Skills:
+My work spans multiple domains:  
+- Cloud Architecture & Security (AWS, Azure)  
+- Cybersecurity Operations & Identity Security  
+- Network Engineering (Routing, Switching, Firewalls)  
+- DevOps & Automation  
+- Python & AI-driven security analytics  
 
-DevOps & Automation: CI/CD Pipelines, IaC, AWS & Azure.
+I'm also the founder of **SkyGuardian-AI**, a security automation platform built at the intersection of cloud, cybersecurity, and AI.
 
-Cybersecurity: Network and Cloud Security Architecture, Zero Trust.
+My long-term mission is to integrate **AI + Cloud + Security** into scalable, intelligent systems that solve real-world problems.
 
-AI/ML: Python 🐍, TensorFlow, PyTorch, and large-scale model deployment.
+---
 
-🛠️ Tech Stack Highlights: Python, AI Frameworks, Cloud Platforms (AWS, Azure), Network Security Tools, Kubernetes.
+## 🛡️ SkyGuardian-AI – Intelligent Cloud Security Automation (Founder Project)
+**SkyGuardian-AI** is my flagship platform — a next-gen security automation tool engineered to evolve into an AI-driven cloud defense system.
 
-✨ Motto I Live By: “Secure the present. Build the future. Evolve every day.”
+### 🔥 Core Capabilities:
+- 🔍 **Automated Cloud Log Analysis** (CloudTrail, VPC Flow Logs, IAM Activity)  
+- 🔐 **Identity Security Posture Auditing** (MFA checks, privilege insights, inactive accounts)  
+- 🧠 **AI-Assisted Threat Detection Roadmap** (pattern recognition, anomaly scoring)  
+- 📊 **Automated Compliance & Security Reporting** (PDF, HTML, Markdown)  
+- ⚙️ **Modular Python Architecture** for rapid expansion and scalability  
 
-🚀 High-Intensity Learning Journeys (Ongoing)
-🐍 90 Days of Python & AI Commitment
-This ongoing journey is a deep dive to master the full Python ecosystem for engineering: from scripting and networking automation to implementing core AI/ML concepts using TensorFlow and PyTorch. Follow along for practical, open-source automation scripts and intelligent system prototypes.
+SkyGuardian-AI reflects my vision as both **an engineer and a founder** — combining cloud security, AI readiness, and automation into a practical, evolving product.
 
-🚢 Kubernetes Implementation Journey
-I am actively working to architect and deploy secure, scalable containerized environments using Kubernetes (K8s). This journey involves mastering cluster setup, deploying complex microservices, implementing security policies, and optimizing resource utilization for high availability and performance.
+---
 
-🤝 Connect & Collaborate
-I'm always open to new challenges and conversations. Here's how we can work together:
+## 🔐 Cybersecurity Domain Expertise  
+I have extensive experience supporting enterprise cybersecurity programs and defensive architectures. My cybersecurity skill set includes:
 
-Looking to Collaborate On 🧠☁️🔒
+### 🛡️ Identity & Access Security  
+- IAM governance  
+- MFA enforcement  
+- RBAC & Zero Trust models  
+- Privileged Access workflows  
+- Access certification & cleanup  
 
-AI Research and innovative product development.
+### 🚨 Security Operations  
+- Log analysis (CloudTrail, Syslog, Firewalls, VPC Flow Logs)  
+- Incident response fundamentals  
+- Threat modeling support  
+- Security monitoring & alert tuning  
+- Vulnerability management workflows  
 
-Building Cloud-native Applications.
+### 🔥 Network & Perimeter Defense  
+- Palo Alto | Fortinet | Cisco ASA  
+- Security policies, NAT, SSL VPN, IPsec VPN  
+- Layer 3/4 traffic inspection  
+- Firewall rule audits & hardening  
 
-Projects focusing on Cybersecurity Automation.
+### 🧪 Compliance & Posture Management  
+- SOC2 readiness awareness  
+- CIS benchmark alignment  
+- Least privilege-based architecture  
+- Secure configuration standards  
 
-Looking for Help With 🚀⭐📢
+---
 
-Startup Advisory and business scaling strategies.
+## 💼 Professional Experience & Expertise
 
-Open-source AI projects contributions.
+### 🔹 Senior Infrastructure, Cloud & Cybersecurity Engineer  
+Delivered secure, automated, and scalable solutions across multiple industries:  
+- AWS & Azure cloud architecture  
+- Cybersecurity operations & identity security  
+- IAM, PAM workflows, MFA implementation  
+- Secure VPC design, segmentation, routing  
+- Firewall policies, VPN tunnels, traffic engineering  
 
-Building robust, scalable tech businesses.
+### 🔹 DevOps & Automation Engineer  
+Proven experience designing automated workflows:  
+- CI/CD pipelines (GitHub Actions)  
+- Terraform IaC modules  
+- Automated provisioning & configuration  
+- Cloud monitoring, event-based triggers  
+- Python tools for security automation  
 
-Ask Me About 💬🔑
+### 🔹 Network Security Specialist  
+Deep hands-on expertise:  
+- VLANs, STP, OSPF, BGP  
+- Packet flow analysis  
+- Access control & traffic filtering  
+- Secure connectivity across hybrid environments  
 
-Network/Cloud Security architecture.
+---
 
-Python scripting and AI integration.
+## 🎓 Academic & Career Development  
+- **B.Tech – Computer Science Engineering**  
+- **Post-Graduation – IT & Network Security (Canada)**  
+- **Post-Graduation – Global Business Management**  
+- **Upcoming (2026): Master’s in Artificial Intelligence & Machine Learning (USA)**  
+- Preparing for: **AWS Solutions Architect**, **Palo Alto PCNSA/PCNSE**, **AI & Cloud Security Certifications**
 
-Startup strategy or building a tech career from scratch.
+---
 
-🌐 Let's Connect
-LinkedIn: [https://www.linkedin.com/in/jobanjit-singh/]
+## 🧠 What I’m Learning Right Now  
+📚 **Python & AI – 90 Days Journey**  
+Strengthening Python fundamentals for automation and AI.
 
-GitHub: [https://github.com/Joban-Bhangu77]
+☸️ **Kubernetes – 40 Days Practical Learning**  
+Deployments, services, networking & cloud-native security.
 
-Email: [Jobanjitsinghamritsar@gmail.com]
+🔐 **Advanced Cloud & Identity Security**  
+Zero Trust, least privilege, IAM automation, and posture management.
 
-Blog/Insights: Medium @ [https://medium.com/@jobanjitsinghamritsar]
+---
 
-Official Website (Launching Soon): www.theturbanator.com
+## 🛠️ Tech Stack
+
+### 🚀 Cloud & DevOps  
+AWS • Azure • Docker • Kubernetes  
+Terraform • GitHub Actions • Linux • Bash • PowerShell  
+
+### 🔐 Cybersecurity & Networking  
+IAM • MFA • Zero Trust • SOC2 practices  
+Palo Alto • Fortinet • Cisco ASA  
+VPN • VPC • Subnets • Firewall Hardening  
+Routing: OSPF • BGP • Static  
+
+### 💻 Programming & AI  
+Python • Pandas • NumPy  
+AI/ML fundamentals • Data structures  
+Security automation scripting  
+
+---
+
+## 📈 Featured Projects
+
+### 🔹 **SkyGuardian-AI**  
+AI-oriented cloud security automation platform supporting threat insights, posture analysis & reporting.
+
+### 🔹 **Python & AI – 90 Days Portfolio Lab**  
+A consistent documentation-driven journey to strengthen Python fundamentals.
+
+### 🔹 **Kubernetes Playground – 40 Day Lab Series**  
+Cloud-native learning, cluster experiments, and real-world deployment practice.
+
+---
+
+## 🏆 Strengths  
+✔️ Enterprise experience across Cloud, Cybersecurity & Network Engineering  
+✔️ Strong automation-first engineering mindset  
+✔️ Documentation-focused approach  
+✔️ Security-driven problem solver  
+✔️ Leadership in technical execution  
+✔️ Consistent learner & ambitious builder  
+
+---
+
+## 🚀 My Vision  
+To become a global leader in **Cloud Security + AI Automation**, building intelligent systems that secure the digital future.
+
+## 🌱 My Mission  
+- Build solutions that automate security  
+- Apply AI to solve real engineering challenges  
+- Mentor and inspire future cloud & security engineers  
+- Learn continuously and innovate relentlessly  
+
+### ⚡ “The future belongs to those who create it — one line of code at a time.”
