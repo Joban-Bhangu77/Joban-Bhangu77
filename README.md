@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joban Bhangu</h1>
+<h1 align="center">Hi 👋, I'm Jobanjit Singh</h1>
 
 <h3 align="center">
 Cloud Engineering ☁️ | AI & Automation 🤖 | DevOps & SRE ⚙️ | Kubernetes ☸️ | Terraform 🏗️ | CI/CD 🔄 | Observability 📊 | DevSecOps 🔐
@@ -14,184 +14,152 @@ Cloud Engineering ☁️ | AI & Automation 🤖 | DevOps & SRE ⚙️ | Kubernet
 
 ---
 
+## 🚀 Featured Projects (Portfolio Showcase)
+
+<p align="center">
+
+<a href="https://github.com/YOUR-USERNAME/cloud-native-devops-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=cloud-native-devops-platform&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/YOUR-USERNAME/devsecops-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=devsecops-pipeline&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/YOUR-USERNAME/monitoring-observability">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=monitoring-observability&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
 ## 🌟 About Me  
 
 I build **production-grade cloud platforms** that are scalable, resilient, and secure by design.  
 
-With 8+ years of experience across DevOps, Site Reliability Engineering, and Cloud Security, I specialize in **Kubernetes, Infrastructure as Code, CI/CD automation, and observability systems** that improve reliability and reduce operational overhead.  
+With 8+ years of experience across DevOps, Site Reliability Engineering, and Cloud Security, I specialize in **Kubernetes, Infrastructure as Code, CI/CD automation, and observability systems**.  
 
-My focus is on engineering systems that **scale seamlessly, recover automatically, and stay secure in real-world environments**.  
+I focus on building systems that **scale seamlessly, recover automatically, and stay secure under real-world production load**.  
 
 ⚡ *I don’t just build systems — I build systems that don’t break.*
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🚀 Engineering Impact
 
 ---
 
 ### 🔹 Cloud-Native DevOps Platform  
-*Building scalable, automated, production-ready infrastructure*
+*Automation at scale*
 
-Architected and deployed a **cloud-native DevOps platform on AWS**, integrating CI/CD, container orchestration, and Infrastructure as Code.
-
-🔧 Key Contributions:
-- Built CI/CD pipelines (Jenkins, GitHub Actions)  
-- Containerized apps with Docker & deployed on Kubernetes (EKS)  
-- Provisioned infrastructure using Terraform  
-- Designed secure VPC, IAM, and networking  
-
-📊 Impact:
 - Deployment time: **40 min → <5 min (87% faster)**  
-- **90%+ automation** achieved  
+- **90%+ automation achieved**  
 - Zero-touch deployments  
-- Improved uptime & scalability  
+- Kubernetes-based scaling & self-healing  
 
-🚀 Value:
-- Faster releases  
-- Reduced manual errors  
-- Scalable infra  
-
-💡 Skills:
-Kubernetes • AWS • Terraform • CI/CD • Docker • Networking  
+👉 Result: Faster releases + production stability  
 
 ---
 
-### 🔹 DevSecOps Pipeline (SAST • DAST • SCA)  
-*Embedding security into CI/CD*
+### 🔹 DevSecOps Pipeline  
+*Security built into delivery*
 
-Built a **fully automated DevSecOps pipeline** integrating security into development workflows.
+- **300+ vulnerabilities identified**  
+- Risk reduced by **60–70%**  
+- 100% automated security scans  
 
-🔧 Key Contributions:
-- SAST → SonarQube  
-- DAST → OWASP ZAP  
-- SCA → Dependency-Check  
-- Automated scans in CI/CD  
-
-📊 Impact:
-- Found **300+ vulnerabilities**  
-- Reduced risk by **60–70%**  
-- 100% automated scans  
-
-🚀 Value:
-- Stronger security posture  
-- Reduced production risk  
-- Faster secure deployments  
-
-💡 Skills:
-DevSecOps • SAST • DAST • SCA • CI/CD • Security Automation  
+👉 Result: Secure-by-design deployments  
 
 ---
 
-### 🔹 Monitoring & Observability Platform  
-*Engineering reliability through visibility*
+### 🔹 Observability Platform  
+*Reliability through visibility*
 
-Implemented a **full observability stack** for monitoring and alerting.
-
-🔧 Key Contributions:
-- Prometheus for metrics  
-- Grafana dashboards  
-- Alertmanager alerts  
-- SRE metrics monitoring  
-
-📊 Impact:
 - MTTD ↓ **60%+**  
 - MTTR ↓ **40%+**  
 - **99.9% uptime achieved**  
 
-🚀 Value:
-- Faster incident response  
-- Proactive monitoring  
-- Better system reliability  
-
-💡 Skills:
-Prometheus • Grafana • Alerting • Observability • SRE  
+👉 Result: Proactive incident response  
 
 ---
 
-## 🧠 Core Expertise
+# 📊 GitHub Stats
 
-✔️ Cloud Architecture (AWS, Azure)  
-✔️ Kubernetes & Container Orchestration  
-✔️ Infrastructure as Code (Terraform)  
-✔️ CI/CD Automation  
-✔️ DevSecOps  
-✔️ Monitoring & Observability  
-✔️ Network Security  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🚀 DevOps & Cloud Stack
+# 🚀 Tech Stack & Tools
 
 ---
 
 ## ☁️ Cloud Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws" height="50"/>
-<img src="https://img.shields.io/badge/AWS-Cloud-black?style=for-the-badge&logo=amazonaws"/>
-<img src="https://skillicons.dev/icons?i=azure" height="50"/>
-<img src="https://skillicons.dev/icons?i=gcp" height="50"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="55"/>
 </p>
 
 ---
 
 ## ⚙️ Containers & Orchestration
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
-<img src="https://skillicons.dev/icons?i=helm" height="50"/>
-<img src="https://skillicons.dev/icons?i=nginx" height="50"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,nginx" height="55"/>
 </p>
 
 ---
 
 ## 🏗️ Infrastructure as Code
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=terraform" height="50"/>
-<img src="https://skillicons.dev/icons?i=ansible" height="50"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=terraform,ansible" height="55"/>
 </p>
 
 ---
 
 ## 🔄 CI/CD & Automation
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=githubactions" height="50"/>
-<img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,githubactions,jenkins,git" height="55"/>
 </p>
 
 ---
 
 ## 📊 Monitoring & Observability
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=prometheus" height="50"/>
-<img src="https://skillicons.dev/icons?i=grafana" height="50"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="55"/>
 <img src="https://img.shields.io/badge/ELK-Stack-yellow?style=for-the-badge"/>
 </p>
 
 ---
 
-## 💻 OS & Programming
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-<img src="https://skillicons.dev/icons?i=bash" height="50"/>
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
+## 💻 OS, Scripting & Programming
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,python" height="55"/>
 </p>
 
 ---
 
 ## 🔐 DevSecOps & Security
+<p align="center">
 
-![SAST](https://img.shields.io/badge/SAST-SonarQube-blue?style=for-the-badge)
-![DAST](https://img.shields.io/badge/DAST-OWASP_ZAP-green?style=for-the-badge)
-![SCA](https://img.shields.io/badge/SCA-Dependency_Check-orange?style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-SAST-blue?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-DAST-green?style=for-the-badge)
+![Dependency Check](https://img.shields.io/badge/SCA-Dependency_Check-orange?style=for-the-badge)
+
+</p>
+
+---
+
+## 🌐 Networking & Cloud Security
+<p align="center">
+
+![VPC](https://img.shields.io/badge/AWS-VPC-blue?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-Security-orange?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-Secure-green?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/Firewall-Network-red?style=for-the-badge)
+
+</p>
 
 ---
 
@@ -203,22 +171,12 @@ Prometheus • Grafana • Alerting • Observability • SRE
 
 ---
 
-## 🚀 Engineering Mindset
+## 🚀 What I Bring
 
-✔️ Automate everything  
-✔️ Design for failure  
-✔️ Build scalable systems  
-✔️ Security-first approach  
-✔️ Continuous improvement  
-
----
-
-## 📈 What I Bring
-
-✔️ 8+ years experience  
-✔️ DevOps + Cloud + Security  
-✔️ Real-world production systems  
-✔️ Strong automation mindset  
+✔️ 8+ years of experience  
+✔️ DevOps + Cloud + Security expertise  
+✔️ Production-grade system design  
+✔️ Automation-first engineering mindset  
 
 ---
 
@@ -227,7 +185,7 @@ Prometheus • Grafana • Alerting • Observability • SRE
 🚀 Cloud-Native Platforms  
 🔐 DevSecOps  
 📊 Observability  
-🤖 AI in Cloud  
+🤖 AI + Cloud Security  
 
 ---
 
