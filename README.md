@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jobanjit Singh</h1>
+<h1 align="center">Hi 👋, I'm Joban Bhangu</h1>
 
 <h3 align="center">
 Cloud Engineering ☁️ | AI & Automation 🤖 | DevOps & SRE ⚙️ | Kubernetes ☸️ | Terraform 🏗️ | CI/CD 🔄 | Observability 📊 | DevSecOps 🔐
