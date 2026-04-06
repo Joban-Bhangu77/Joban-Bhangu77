@@ -1,33 +1,56 @@
 <h1 align="center">Hi 👋, I'm Jobanjit Singh</h1>
 
 <h3 align="center">
-Cloud Engineering ☁️ | AI & Automation 🤖 | DevOps & SRE ⚙️ | Kubernetes ☸️ | Terraform 🏗️ | CI/CD 🔄 | Observability 📊 | DevSecOps 🔐
+Cloud Engineering ☁️ • AI & Automation 🤖 • DevOps & SRE ⚙️ • Kubernetes ☸️ • Terraform 🏗️ • CI/CD 🔄 • Observability 📊 • DevSecOps 🔐
 </h3>
 
 <p align="center">
-🚀 Building Scalable • Secure • Self-Healing Cloud Systems  
+🚀 Building scalable, secure, and self-healing cloud systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Site+Reliability+Engineer;Cloud+Security+Specialist;Kubernetes+Expert&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Site+Reliability+Engineer;Cloud+Security+Specialist;Kubernetes+Expert&center=true&width=520&height=45&color=58A6FF">
 </p>
 
 ---
 
-## 🚀 Featured Projects (Portfolio Showcase)
+---
+
+## 🚀 Featured Projects
 
 <p align="center">
-
-<a href="https://github.com/Joban-Bhangu77/cloud-native-devops-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joban-Bhangu77&repo=cloud-native-devops-platform&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Joban-Bhangu77/DevSecOps-Pipeline-SAST-DAST-SCA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joban-Bhangu77&repo=DevSecOps-Pipeline-SAST-DAST-SCA&theme=tokyonight"/>
-</a>
-
+Showcasing production-grade systems focused on automation, security, and reliability.
 </p>
 
+---
+
+### ⚡ Cloud-Native DevOps Platform  
+<p align="center">
+<a href="https://github.com/Joban-Bhangu77/cloud-native-devops-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joban-Bhangu77&repo=cloud-native-devops-platform&theme=tokyonight&border_radius=10"/>
+</a>
+</p>
+
+<p align="center">
+🚀 Automated CI/CD • Kubernetes (EKS) • Terraform Infrastructure  
+⚡ Reduced deployment time by 87% • Enabled zero-touch deployments  
+</p>
+
+---
+
+### 🔐 DevSecOps Pipeline (SAST • DAST • SCA)  
+<p align="center">
+<a href="https://github.com/Joban-Bhangu77/DevSecOps-Pipeline-SAST-DAST-SCA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joban-Bhangu77&repo=DevSecOps-Pipeline-SAST-DAST-SCA&theme=tokyonight&border_radius=10"/>
+</a>
+</p>
+
+<p align="center">
+🔐 Integrated SAST, DAST & SCA into CI/CD pipelines  
+⚡ Identified 300+ vulnerabilities • Reduced risk by 60–70%  
+</p>
+
+---
 ---
 
 ## 🌟 About Me  
@@ -38,7 +61,7 @@ With over 8 years of experience across DevOps, Site Reliability Engineering, and
 
 I focus on engineering systems that scale efficiently, recover automatically, and operate reliably under real-world production demands.
 
-I don’t just build systems — I build systems that don’t break.
+I don’t just build systems, I build systems that don’t break.
 
 ---
 
@@ -193,4 +216,4 @@ https://github.com/Joban-Bhangu77/DevSecOps-Pipeline-SAST-DAST-SCA
 
 ---
 
-⚡ "I don’t just build systems — I build systems that never break."
+⚡ "I don’t just build systems,  I build systems that never break."
