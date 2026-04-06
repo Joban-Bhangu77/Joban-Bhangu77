@@ -1,19 +1,27 @@
-# 👋 Hi, I'm Jobanjit Singh
+🚀 💎 FINAL TOP SECTION (COPY THIS)
+<h1 align="center">Hi 👋, I'm Joban Bhangu</h1>
 
-🚀 Senior DevOps Engineer | Site Reliability Engineer | Cloud & Security Specialist  
-☁️ AWS • Azure • Kubernetes • Terraform • DevSecOps • AI Automation  
+<h3 align="center">
+Cloud Engineering ☁️ | AI & Automation 🤖 | DevOps & SRE ⚙️ | Kubernetes ☸️ | Terraform 🏗️ | CI/CD 🔄 | Observability 📊 | DevSecOps 🔐
+</h3>
+
+<p align="center">
+🚀 Building Scalable • Secure • Self-Healing Cloud Systems  
+</p>
+
+---
+
+## 🌟 About Me  
+
+I build **production-grade cloud platforms** that are scalable, resilient, and secure by design.  
+
+With 8+ years of experience across DevOps, Site Reliability Engineering, and Cloud Security, I specialize in **Kubernetes, Infrastructure as Code, CI/CD automation, and observability systems** that improve reliability and reduce operational overhead.  
+
+My focus is on engineering systems that **scale seamlessly, recover automatically, and stay secure in real-world environments**.  
 
 ---
 
-## 🌟 About Me
-
-I am a results-driven DevOps and Site Reliability Engineer with 8+ years of experience designing, automating, and securing enterprise-scale cloud infrastructure.
-
-I specialize in building **cloud-native platforms, highly reliable systems, and automated DevSecOps pipelines** that reduce deployment time, improve uptime, and enhance security posture.
-
-My work combines **Cloud + DevOps + Security + AI**, enabling scalable, self-healing, and production-ready systems.
-
----
+⚡ *I don’t just build systems — I build systems that don’t break.*
 
 ## 🚀 Key Projects
 
