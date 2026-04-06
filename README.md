@@ -71,41 +71,55 @@ Implemented a complete observability stack:
 
 ---
 
-## 🛠️ Tech Stack
-
 ## 🚀 DevOps & Cloud Stack
 
+### ☁️ Cloud Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" title="GCP"/>
+</p>
+
+### ⚙️ Containers & Orchestration
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" title="Helm"/>
+</p>
+
+### 🏗️ Infrastructure as Code
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" title="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" title="Ansible"/>
+</p>
+
+### 🔄 CI/CD & Automation
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
-</p>)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" title="Jenkins"/>
+</p>
 
-## 📊 Monitoring & Observability
-
+### 📊 Monitoring & Observability
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" title="Prometheus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" title="Grafana"/>
 </p>
 
-## 🔐 DevSecOps & Security
+### 💻 Operating Systems & Scripting
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+</p>
 
-![SAST](https://img.shields.io/badge/SAST-SonarQube-blue?style=for-the-badge)
-![DAST](https://img.shields.io/badge/DAST-OWASP_ZAP-green?style=for-the-badge)
-![SCA](https://img.shields.io/badge/SCA-Dependency_Check-orange?style=for-the-badge)
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- 💻 GitHub: https://github.com/YOUR-USERNAME  
-- 📝 Medium: https://medium.com/@YOUR-HANDLE  
+### 🔐 DevSecOps & Security Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" title="Nginx"/>
+  <img src="https://img.shields.io/badge/SonarQube-SAST-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-DAST-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dependency_Check-SCA-orange?style=for-the-badge"/>
+</p> 
 
 ---
 
