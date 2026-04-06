@@ -70,56 +70,84 @@ Implemented a complete observability stack:
 ✔️ Network Security & Cloud Security  
 
 ---
+# 🚀 DevOps & Cloud Stack
 
-## 🚀 DevOps & Cloud Stack
+---
 
-### ☁️ Cloud Platforms
+## ☁️ Cloud Platforms
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" title="GCP"/>
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="45" title="AWS"/></a>
+<a href="https://azure.microsoft.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" title="Azure"/></a>
+<a href="https://cloud.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" title="GCP"/></a>
 </p>
 
-### ⚙️ Containers & Orchestration
+---
+
+## ⚙️ Containers & Orchestration
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" title="Helm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45"/>
 </p>
 
-### 🏗️ Infrastructure as Code
+---
+
+## 🏗️ Infrastructure as Code
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" title="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" title="Ansible"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45"/>
 </p>
 
-### 🔄 CI/CD & Automation
+---
+
+## 🔄 CI/CD & Automation
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" title="Jenkins"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 </p>
 
-### 📊 Monitoring & Observability
+---
+
+## 📊 Monitoring & Observability
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" title="Prometheus"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" title="Grafana"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45"/>
+<img src="https://img.shields.io/badge/ELK-Stack-yellow?style=for-the-badge"/>
 </p>
 
-### 💻 Operating Systems & Scripting
+---
+
+## 💻 OS & Programming
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 </p>
 
-### 🔐 DevSecOps & Security Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" title="Nginx"/>
-  <img src="https://img.shields.io/badge/SonarQube-SAST-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-DAST-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dependency_Check-SCA-orange?style=for-the-badge"/>
-</p> 
+---
+
+## 🔐 DevSecOps & Security
+
+![SAST](https://img.shields.io/badge/SAST-SonarQube-blue?style=for-the-badge&logo=sonarqube)
+![DAST](https://img.shields.io/badge/DAST-OWASP_ZAP-green?style=for-the-badge&logo=owasp)
+![SCA](https://img.shields.io/badge/SCA-Dependency_Check-orange?style=for-the-badge)
+![Zero Trust](https://img.shields.io/badge/ZeroTrust-Security-red?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-purple?style=for-the-badge)
+
+---
+
+## ⚡ DevOps Philosophy
+
+![Automation](https://img.shields.io/badge/Automation-First-blueviolet?style=for-the-badge)
+![Scalability](https://img.shields.io/badge/Scalable-Systems-green?style=for-the-badge)
+![Reliability](https://img.shields.io/badge/High-Reliability-orange?style=for-the-badge)
+![Observability](https://img.shields.io/badge/Full-Observability-yellow?style=for-the-badge)
+
+
+   
 
 ---
 
