@@ -1,4 +1,4 @@
-🚀 💎 FINAL TOP SECTION (COPY THIS)
+
 <h1 align="center">Hi 👋, I'm Joban Bhangu</h1>
 
 <h3 align="center">
