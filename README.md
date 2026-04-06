@@ -70,61 +70,87 @@ Implemented a complete observability stack:
 ✔️ Network Security & Cloud Security  
 
 ---
+
+<h1 align="center">🚀 DevOps | SRE | Cloud Engineer</h1>
+<p align="center">Building Scalable • Secure • Self-Healing Systems</p>
+
+---
+
 # 🚀 DevOps & Cloud Stack
 
 ---
 
 ## ☁️ Cloud Platforms
+
 <p align="left">
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="45" title="AWS"/></a>
-<a href="https://azure.microsoft.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" title="Azure"/></a>
-<a href="https://cloud.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" title="GCP"/></a>
+
+<!-- AWS (ULTRA FIXED VERSION) -->
+<a href="https://aws.amazon.com">
+  <img src="https://skillicons.dev/icons?i=aws" height="50" title="AWS"/>
+</a>
+
+<!-- Backup AWS Badge -->
+<img src="https://img.shields.io/badge/AWS-Cloud-black?style=for-the-badge&logo=amazonaws"/>
+
+<a href="https://azure.microsoft.com">
+  <img src="https://skillicons.dev/icons?i=azure" height="50" title="Azure"/>
+</a>
+
+<a href="https://cloud.google.com">
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" title="GCP"/>
+</a>
+
 </p>
 
 ---
 
 ## ⚙️ Containers & Orchestration
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
+<img src="https://skillicons.dev/icons?i=helm" height="50"/>
+<img src="https://skillicons.dev/icons?i=nginx" height="50"/>
 </p>
 
 ---
 
 ## 🏗️ Infrastructure as Code
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=terraform" height="50"/>
+<img src="https://skillicons.dev/icons?i=ansible" height="50"/>
 </p>
 
 ---
 
 ## 🔄 CI/CD & Automation
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="50"/>
+<img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
 </p>
 
 ---
 
 ## 📊 Monitoring & Observability
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=prometheus" height="50"/>
+<img src="https://skillicons.dev/icons?i=grafana" height="50"/>
 <img src="https://img.shields.io/badge/ELK-Stack-yellow?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 💻 OS & Programming
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=linux" height="50"/>
+<img src="https://skillicons.dev/icons?i=bash" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
 </p>
 
 ---
@@ -142,12 +168,49 @@ Implemented a complete observability stack:
 ## ⚡ DevOps Philosophy
 
 ![Automation](https://img.shields.io/badge/Automation-First-blueviolet?style=for-the-badge)
-![Scalability](https://img.shields.io/badge/Scalable-Systems-green?style=for-the-badge)
-![Reliability](https://img.shields.io/badge/High-Reliability-orange?style=for-the-badge)
-![Observability](https://img.shields.io/badge/Full-Observability-yellow?style=for-the-badge)
+![Scalable](https://img.shields.io/badge/Scalable-Systems-green?style=for-the-badge)
+![Reliable](https://img.shields.io/badge/High-Reliability-orange?style=for-the-badge)
+![Observable](https://img.shields.io/badge/Full-Observability-yellow?style=for-the-badge)
+
+---
+
+## 🚀 Engineering Mindset
+
+✔️ Design for failure, recover faster  
+✔️ Automate everything possible  
+✔️ Build scalable & resilient systems  
+✔️ Security-first architecture  
+✔️ Continuous monitoring & improvement  
+✔️ Reduce manual work using automation  
+✔️ Focus on performance, uptime & reliability  
+
+---
+
+## 📈 What I Bring
+
+✔️ 8+ years of enterprise IT experience  
+✔️ Strong DevOps + Cloud + Security expertise  
+✔️ Real-world production system design  
+✔️ Hands-on Kubernetes & Terraform experience  
+✔️ DevSecOps implementation (SAST, DAST, SCA)  
+✔️ Monitoring & Observability expertise  
+✔️ AI-driven automation mindset  
+
+---
+
+## 🔥 Current Focus
+
+🚀 Building Cloud-Native DevOps Platforms  
+🔐 Enhancing DevSecOps Pipelines  
+📊 Scaling Observability Systems  
+🤖 Integrating AI into Cloud Security  
+
+---
+
+⚡ "I don’t just build systems — I build systems that never break."
 
 
-   
+
 
 ---
 
