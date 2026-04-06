@@ -18,16 +18,12 @@ Cloud Engineering ☁️ | AI & Automation 🤖 | DevOps & SRE ⚙️ | Kubernet
 
 <p align="center">
 
-<a href="https://github.com/YOUR-USERNAME/cloud-native-devops-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=cloud-native-devops-platform&theme=tokyonight"/>
+<a href="https://github.com/Joban-Bhangu77/cloud-native-devops-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joban-Bhangu77&repo=cloud-native-devops-platform&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/YOUR-USERNAME/devsecops-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=devsecops-pipeline&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/YOUR-USERNAME/monitoring-observability">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=monitoring-observability&theme=tokyonight"/>
+<a href="https://github.com/Joban-Bhangu77/DevSecOps-Pipeline-SAST-DAST-SCA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joban-Bhangu77&repo=DevSecOps-Pipeline-SAST-DAST-SCA&theme=tokyonight"/>
 </a>
 
 </p>
@@ -36,13 +32,13 @@ Cloud Engineering ☁️ | AI & Automation 🤖 | DevOps & SRE ⚙️ | Kubernet
 
 ## 🌟 About Me  
 
-I build **production-grade cloud platforms** that are scalable, resilient, and secure by design.  
+I build production-grade cloud platforms designed for scalability, resilience, and security.
 
-With 8+ years of experience across DevOps, Site Reliability Engineering, and Cloud Security, I specialize in **Kubernetes, Infrastructure as Code, CI/CD automation, and observability systems**.  
+With over 8 years of experience across DevOps, Site Reliability Engineering, and Cloud Security, I work extensively with Kubernetes, Infrastructure as Code, CI/CD automation, and observability.
 
-I focus on building systems that **scale seamlessly, recover automatically, and stay secure under real-world production load**.  
+I focus on engineering systems that scale efficiently, recover automatically, and operate reliably under real-world production demands.
 
-⚡ *I don’t just build systems — I build systems that don’t break.*
+I don’t just build systems — I build systems that don’t break.
 
 ---
 
@@ -52,6 +48,9 @@ I focus on building systems that **scale seamlessly, recover automatically, and 
 
 ### 🔹 Cloud-Native DevOps Platform  
 *Automation at scale*
+
+👉 **GitHub Repo:**  
+https://github.com/Joban-Bhangu77/cloud-native-devops-platform  
 
 - Deployment time: **40 min → <5 min (87% faster)**  
 - **90%+ automation achieved**  
@@ -65,6 +64,9 @@ I focus on building systems that **scale seamlessly, recover automatically, and 
 ### 🔹 DevSecOps Pipeline  
 *Security built into delivery*
 
+👉 **GitHub Repo:**  
+https://github.com/Joban-Bhangu77/DevSecOps-Pipeline-SAST-DAST-SCA  
+
 - **300+ vulnerabilities identified**  
 - Risk reduced by **60–70%**  
 - 100% automated security scans  
@@ -75,6 +77,8 @@ I focus on building systems that **scale seamlessly, recover automatically, and 
 
 ### 🔹 Observability Platform  
 *Reliability through visibility*
+
+(Coming Soon 🚀 — will integrate Prometheus + Grafana project)
 
 - MTTD ↓ **60%+**  
 - MTTR ↓ **40%+**  
@@ -87,8 +91,8 @@ I focus on building systems that **scale seamlessly, recover automatically, and 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Joban-Bhangu77&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joban-Bhangu77&theme=tokyonight"/>
 </p>
 
 ---
