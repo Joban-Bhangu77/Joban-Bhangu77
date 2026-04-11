@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Joban-Bhangu77/REPO_NAME/main/assets/thumbnail.png" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Jobanjit Singh</h1>
 
 <h3 align="center">
