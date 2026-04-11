@@ -40,7 +40,7 @@ Showcasing production-grade systems focused on automation, security, and reliabi
 
 ### 🔐 DevSecOps Pipeline (SAST • DAST • SCA)  
 <p align="center">
-<a href="https://github.com/Joban-Bhangu77/DevSecOps-Pipeline-SAST-DAST-SCA">
+<a href="https://github.com/Joban-Bhangu77/DevSecOps-SAST-Pipeline.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joban-Bhangu77&repo=DevSecOps-Pipeline-SAST-DAST-SCA&theme=tokyonight&border_radius=10"/>
 </a>
 </p>
@@ -88,7 +88,7 @@ https://github.com/Joban-Bhangu77/cloud-native-devops-platform
 *Security built into delivery*
 
 👉 **GitHub Repo:**  
-https://github.com/Joban-Bhangu77/DevSecOps-Pipeline-SAST-DAST-SCA  
+https://github.com/Joban-Bhangu77/DevSecOps-SAST-Pipeline.git  
 
 - **300+ vulnerabilities identified**  
 - Risk reduced by **60–70%**  
